@@ -8,3 +8,7 @@ sudo apt-get build-dep rapidsvn
 make
 
 sudo make install
+
+ok
+
+chongtu
