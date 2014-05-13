@@ -1,1 +1,10 @@
 2014年 05月 13日 星期二 15:23:58 CST
+
+
+sudo apt-get build-dep rapidsvn
+
+./configure
+
+make
+
+sudo make install
